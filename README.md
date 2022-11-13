@@ -11,4 +11,5 @@ Se você quiser utilizar este código em seu Work Space, será necessário a ins
 configurar:
       account_sid = ''
       auth_token = ''
-<h1>Sugenstão: Acessar https://www.twilio.com e conferi a documentação
+Sugestão: Acessar   https://console.twilio.com e seguir a documentação.
+      
