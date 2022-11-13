@@ -13,7 +13,7 @@ Se você quiser utilizar este código em seu Work Space, será necessário a ins
 configurar
 
       account_sid = ''
-      auth_token = 
+      auth_token = ''
       
 Sugestão: Acessar   https://console.twilio.com e seguir a documentação.
       
